@@ -1,0 +1,131 @@
+body {
+  padding: 0;
+  text-align: center;
+  background-image: url(./../images/OurBackground.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px
+}
+
+.game-intro {
+  color: #fff;
+  font-weight: bolder;
+  margin-top: 40px;
+  padding: 0% 10%;
+}
+
+.game-intro p {
+  font-size: 25px;
+  font-family: "Verdana"
+}
+
+.logo-img {
+  width: 100px;
+}
+
+.arrows-img {
+  width: 100px;
+}
+
+body button {
+  font-size: 25px;
+  background-color: #F5D020;
+  color: black;
+  font-weight: bolder;
+  padding: 20px 40px;
+  border: 0;
+  box-shadow: 0;
+  border-radius: 15px;
+  margin-bottom: 5px;
+  font-weight: 700;
+
+}
+
+#re-start-button {
+  background-color: red;
+  color: #fff;
+  padding: 10px 20px;
+  border: 0;
+  box-shadow: 0;
+  border-radius: 5px;
+  margin-bottom: 5px;
+
+
+}
+
+.game-over {
+  background-color: white;
+
+}
+
+#game-board {
+  padding: 20px 0px;
+}
+
+.ball-img {
+  display: none;
+}
+
+.high-Score {
+  margin-right: 40px;
+  margin-top: 10%;
+  font-size: 25px;
+  color: white;
+  padding: 10px;
+  border-radius: 15px;
+  box-shadow: 5px;
+  font-weight: bolder;
+
+}
+
+
+.game-Score {
+  margin-right: 0%;
+  margin-top: 20%;
+  border: 10px;
+  box-shadow: 22px
+}
+
+.lives {
+  margin-right: 50px;
+  font-size: 25px;
+  color: white;
+  padding: 10px;
+  border-radius: 15px;
+  box-shadow: 5px;
+  font-weight: bolder;
+}
+
+.game-Score p {
+
+  font-family: "Verdana";
+  color: white;
+  margin-right: 50px;
+  margin-top: 30%;
+  font-size: 25px;
+  padding: 10px;
+  border-radius: 15px;
+  box-shadow: 5px;
+  font-weight: bolder;
+}
+
+
+#Score {
+  font-size: 25px;
+  color: white
+}
+
+
+#jump-img {
+  width: 300px;
+
+
+}
+
+#heart {
+  color: red
+}
+
+#highScore {
+  color: #F5D020;
+}
